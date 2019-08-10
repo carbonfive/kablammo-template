@@ -17,3 +17,14 @@ Edit strategy.rb:
 When you're ready to rock, copy your git URL and register your bot here:
 
   http://kablammo.io/strategies/new
+
+Testing
+-------
+
+Run tests with
+
+```bash
+bundle exec rspec
+```
+
+See [the kablammo-strategy testing docs](https://github.com/carbonfive/kablammo-strategy/blob/master/README.md#testing) for more information on testing your strategy.
